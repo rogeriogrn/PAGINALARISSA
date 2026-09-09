@@ -1,0 +1,19 @@
+.agent/
+.agents/
+.claude/
+skills-lock.json
+
+# Arquivos-fonte preservados localmente; o site usa as versões WebP otimizadas.
+assets/images/areademembros.png
+assets/images/brow-transformation.jpg
+assets/images/certificate-mockup.jpg
+assets/images/course-platform-mockup.jpg
+assets/images/IMAGHEADLINE.png
+assets/images/lari-branding.png
+assets/images/logocursobb.png
+assets/images/PROVA SOCIAL 1.png
+assets/images/PROVA SOCIAL 2.png
+assets/images/PROVA SOCIAL 3.png
+assets/images/PROVA SOCIAL 4.png
+assets/images/QUEMELARI.png
+assets/images/student-camila.jpg
